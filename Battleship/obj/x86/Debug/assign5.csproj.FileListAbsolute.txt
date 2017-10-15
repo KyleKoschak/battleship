@@ -1,0 +1,16 @@
+\\vm-vsweb.niunt.niu.edu\user$\Z1782859\Documents\Visual Studio 2010\Projects\assign5\assign5\obj\x86\Debug\assign5.exe
+\\vm-vsweb.niunt.niu.edu\user$\Z1782859\Documents\Visual Studio 2010\Projects\assign5\assign5\obj\x86\Debug\assign5.pdb
+\\vm-vsweb.niunt.niu.edu\user$\z1782859\documents\visual studio 2010\Projects\assign5\assign5\bin\Debug\assign5.exe
+\\vm-vsweb.niunt.niu.edu\user$\z1782859\documents\visual studio 2010\Projects\assign5\assign5\bin\Debug\assign5.pdb
+\\vm-vsweb.niunt.niu.edu\user$\z1782859\documents\visual studio 2010\Projects\assign5\assign5\obj\x86\Debug\assign5.Form1.resources
+\\vm-vsweb.niunt.niu.edu\user$\z1782859\documents\visual studio 2010\Projects\assign5\assign5\obj\x86\Debug\assign5.Properties.Resources.resources
+\\vm-vsweb.niunt.niu.edu\user$\z1782859\documents\visual studio 2010\Projects\assign5\assign5\obj\x86\Debug\assign5.csproj.GenerateResource.Cache
+\\vm-vsweb.niunt.niu.edu\user$\Z1782859\Documents\Visual Studio 2010\Projects\assign5\assign5\obj\x86\Debug\assign5.csprojResolveAssemblyReference.cache
+C:\Users\Main\Desktop\NIU Work\CSCI 473\assign5\assign5\obj\x86\Debug\assign5.exe
+C:\Users\Main\Desktop\NIU Work\CSCI 473\assign5\assign5\obj\x86\Debug\assign5.pdb
+C:\Users\Main\Desktop\NIU Work\CSCI 473\assign5\assign5\bin\Debug\assign5.exe
+C:\Users\Main\Desktop\NIU Work\CSCI 473\assign5\assign5\bin\Debug\assign5.pdb
+C:\Users\Main\Desktop\NIU Work\CSCI 473\assign5\assign5\obj\x86\Debug\assign5.csprojResolveAssemblyReference.cache
+C:\Users\Main\Desktop\NIU Work\CSCI 473\assign5\assign5\obj\x86\Debug\assign5.Form1.resources
+C:\Users\Main\Desktop\NIU Work\CSCI 473\assign5\assign5\obj\x86\Debug\assign5.Properties.Resources.resources
+C:\Users\Main\Desktop\NIU Work\CSCI 473\assign5\assign5\obj\x86\Debug\assign5.csproj.GenerateResource.Cache

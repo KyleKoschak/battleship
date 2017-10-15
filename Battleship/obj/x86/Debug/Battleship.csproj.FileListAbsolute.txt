@@ -1,0 +1,9 @@
+C:\Users\Main\Desktop\NIU Work\CSCI 473\assign5\assign5\bin\Debug\assign5.exe
+C:\Users\Main\Desktop\NIU Work\CSCI 473\assign5\assign5\bin\Debug\assign5.pdb
+C:\Users\Main\Desktop\NIU Work\CSCI 473\assign5\assign5\obj\x86\Debug\assign5.Form1.resources
+C:\Users\Main\Desktop\NIU Work\CSCI 473\assign5\assign5\obj\x86\Debug\assign5.Properties.Resources.resources
+C:\Users\Main\Desktop\NIU Work\CSCI 473\assign5\assign5\obj\x86\Debug\Battleship.csproj.GenerateResource.Cache
+C:\Users\Main\Desktop\NIU Work\CSCI 473\assign5\assign5\obj\x86\Debug\assign5.exe
+C:\Users\Main\Desktop\NIU Work\CSCI 473\assign5\assign5\obj\x86\Debug\assign5.pdb
+C:\Users\Main\Desktop\NIU Work\CSCI 473\assign5\Battleship\obj\x86\Debug\assign5.exe
+C:\Users\Main\Desktop\NIU Work\CSCI 473\assign5\Battleship\obj\x86\Debug\assign5.pdb
